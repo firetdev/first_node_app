@@ -18,6 +18,7 @@ async function askQuestions() {
 
 async function sendRequest() {
   try {
+    // Send request
     const response = await fetch(endpoint, {
       method: 'POST',
       headers: {
