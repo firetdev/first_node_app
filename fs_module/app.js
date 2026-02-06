@@ -1,3 +1,5 @@
+// Example of file system
+
 // EXPECTED BEHAVIOR:
 // Creates 2 files, appends data to them, reads their contents, and then deletes them.
 
