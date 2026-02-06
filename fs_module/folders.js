@@ -1,3 +1,5 @@
+// Example of folders and paths
+
 import fs from 'node:fs/promises';
 import path from 'node:path';
 
